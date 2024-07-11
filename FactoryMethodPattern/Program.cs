@@ -1,5 +1,5 @@
 ﻿/*
-The Singleton Pattern in C#
+The Factory Method Pattern in C#
 
 Type: Creational
 Useful? 5/5 (Extremely)
